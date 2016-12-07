@@ -1,2 +1,2 @@
 # MultiBaseCalculator
-I created a calculator that does basic calculations from base 2 - 16
+I created a Multi-Base Calculator in Java that does basic calculations from base 2 - 16
